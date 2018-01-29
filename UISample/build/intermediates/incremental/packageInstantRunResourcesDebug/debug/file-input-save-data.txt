@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jan 29 13:21:32 IST 2018
+1.base=D\:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=fonts/Oswald_Regular.ttf
+0.set=ASSET
+0.base=D\:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\assets\\debug
+1.path=fonts/GearedSlab.ttf

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_actionbar.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_actionbar.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launcher.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_actionbar.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notification.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launcher.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_actionbar.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notification.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu_main.xml.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\ui\\build\\intermediates\\bundles\\debug\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu_main.xml.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\ui\\build\\intermediates\\bundles\\debug\\res\\menu\\main.xml"
+    }
+]

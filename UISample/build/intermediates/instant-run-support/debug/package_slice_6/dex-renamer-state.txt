@@ -1,0 +1,4 @@
+#Mon Jan 29 13:22:43 IST 2018
+base.0=D\:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
