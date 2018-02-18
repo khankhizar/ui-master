@@ -6,12 +6,12 @@ group 'com.github.khizarkhan'
 version '2.6'
 
 android {
-    compileSdkVersion 23
+    compileSdkVersion 27
     buildToolsVersion '26.0.2'
 
     defaultConfig {
         minSdkVersion 8
-        targetSdkVersion 23
+        targetSdkVersion 27
     }
 }
 

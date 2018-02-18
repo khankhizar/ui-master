@@ -6,12 +6,20 @@
                 {
                     "source": "D:\\reference\\ui-master\\ui-master\\ui\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "from": {
+                        "startLines": "-1,-1,-1,-1,-1,7,14",
+                        "startColumns": "-1,-1,-1,-1,-1,4,4",
+                        "startOffsets": "-1,-1,-1,-1,-1,315,606",
+                        "endLines": "-1,-1,-1,-1,-1,13,16",
+                        "endColumns": "-1,-1,-1,-1,-1,12,12",
+                        "endOffsets": "-1,-1,-1,-1,-1,601,761"
+                    },
+                    "to": {
                         "startLines": "2,3,4,5,6,7,14",
                         "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,113,169,222,266,319,610",
+                        "startOffsets": "55,113,169,222,262,315,606",
                         "endLines": "2,3,4,5,6,13,16",
-                        "endColumns": "57,55,52,43,52,12,12",
-                        "endOffsets": "108,164,217,261,314,605,765"
+                        "endColumns": "57,55,52,39,52,12,12",
+                        "endOffsets": "108,164,217,257,310,601,761"
                     }
                 }
             ]

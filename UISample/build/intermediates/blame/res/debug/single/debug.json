@@ -1,15 +1,27 @@
 [
     {
-        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_actionbar.png.flat",
-        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\actionbar.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher.png.flat",
         "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\launcher.png"
     },
     {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small.png.flat",
         "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -20,8 +32,12 @@
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
-        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\notification.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
@@ -32,48 +48,56 @@
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\actionbar.png"
     },
     {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_actionbar.png.flat",
         "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\actionbar.png"
     },
     {
-        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launcher.png.flat",
-        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\launcher.png"
-    },
-    {
-        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
-        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\notification.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher.png.flat",
         "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\launcher.png"
     },
     {
-        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher.png.flat",
-        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\launcher.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher.png.flat",
-        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\launcher.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\launcher.png"
     },
     {
         "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small.png.flat",
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\small.png"
     },
     {
-        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small.png.flat",
-        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\small.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small.png.flat",
         "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\small.png"
     },
     {
-        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher.png.flat",
-        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\launcher.png"
-    },
-    {
         "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\launcher.png"
     },
     {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
@@ -88,32 +112,40 @@
         "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-hdpi\\small.png"
     },
     {
-        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_actionbar.png.flat",
-        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\actionbar.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\notification.png"
     },
     {
-        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notification.png.flat",
-        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\notification.png"
-    },
-    {
         "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launcher.png.flat",
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\launcher.png"
     },
     {
-        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar.png.flat",
-        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\actionbar.png"
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notification.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
         "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\notification.png"
     },
     {
-        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar.png.flat",
-        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\actionbar.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launcher.png.flat",
@@ -124,6 +156,130 @@
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\small.png"
     },
     {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launcher.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-mdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-hdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\small.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar.png.flat",
+        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\drawable-xhdpi\\actionbar.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
         "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_actionbar.png.flat",
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\actionbar.png"
     },
@@ -132,12 +288,16 @@
         "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-mdpi\\notification.png"
     },
     {
-        "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
-        "source": "D:\\reference\\ui-master\\ui-master\\UISample\\src\\main\\res\\drawable-xxhdpi\\notification.png"
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e9d442e35e764974e66d3d6fa2ad6c55\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\reference\\ui-master\\ui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\dad0eaddacc01d353b7085b9b60dcd2c\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "D:\\reference\\pixlui-master\\pixlui-master\\UISample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
